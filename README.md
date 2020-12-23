@@ -799,6 +799,7 @@ Yazılım geliştirme ile ilgili özenle seçilmiş Türkçe kaynaklar listesi.
 
 ### Twitch Kanalları
 - [Soner Gönül](https://www.twitch.tv/sonergonul)
+- [Barış Teksin](https://www.twitch.tv/baristeksin)
 
 ### Slack Grupları
 - [Frontend İstanbul](https://frontend-istanbul.slack.com) ([Davetiye Al](https://goo.gl/forms/IZe06LgNk6Vsega83))
